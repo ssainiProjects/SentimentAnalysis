@@ -5,4 +5,4 @@ Methodology-- <br/>
 Data Preprocessing: The text data is cleaned to remove any irrelevant characters. <br/>
 Feature Engineering: TF-IDF (Term Frequency-Inverse Document Frequency) is used for text vectorization. <br/>
 Handling Class Imbalance: Random oversampling is applied to balance the classes. <br/>
-Modeling: A Logistic Regression model is trained to classify the reviews into their respective sentiment categories.
+Modeling: Hyperparamater tuning and CV is used to develop a Logistic Regression model to classify the reviews into their respective sentiment categories.
